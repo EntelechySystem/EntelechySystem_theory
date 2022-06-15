@@ -8,6 +8,7 @@
  [[Projects/EntelechySystem_theory/Notes/分析/_Index_of_分析|_Index_of_分析]]
  [[Projects/EntelechySystem_theory/Notes/功能/_Index_of_功能|_Index_of_功能]]
  [[Projects/EntelechySystem_theory/Notes/多智能体/_Index_of_多智能体|_Index_of_多智能体]]
+ [[Projects/EntelechySystem_theory/Notes/思维/_Index_of_思维|_Index_of_思维]]
  [[Projects/EntelechySystem_theory/Notes/想象/_Index_of_想象|_Index_of_想象]]
  [[Projects/EntelechySystem_theory/Notes/概念/_Index_of_概念|_Index_of_概念]]
  [[Projects/EntelechySystem_theory/Notes/玄学里的优秀思想|玄学里的优秀思想]]
