@@ -5,7 +5,6 @@
  [[Projects/EntelechySystem_theory/Notes/个人与社会属性/_Index_of_个人与社会属性|_Index_of_个人与社会属性]]
  [[Projects/EntelechySystem_theory/Notes/人生观/_Index_of_人生观|_Index_of_人生观]]
  [[Projects/EntelechySystem_theory/Notes/任务/_Index_of_任务|_Index_of_任务]]
- [[Projects/EntelechySystem_theory/Notes/六识发生门|六识发生门]]
  [[Projects/EntelechySystem_theory/Notes/分析/_Index_of_分析|_Index_of_分析]]
  [[Projects/EntelechySystem_theory/Notes/功能/_Index_of_功能|_Index_of_功能]]
  [[Projects/EntelechySystem_theory/Notes/多智能体/_Index_of_多智能体|_Index_of_多智能体]]
