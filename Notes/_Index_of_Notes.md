@@ -10,6 +10,7 @@
  [[Projects/EntelechySystem_theory/Notes/多智能体/_Index_of_多智能体|_Index_of_多智能体]]
  [[Projects/EntelechySystem_theory/Notes/思维/_Index_of_思维|_Index_of_思维]]
  [[Projects/EntelechySystem_theory/Notes/想象/_Index_of_想象|_Index_of_想象]]
+ [[Projects/EntelechySystem_theory/Notes/意象/_Index_of_意象|_Index_of_意象]]
  [[Projects/EntelechySystem_theory/Notes/机器/_Index_of_机器|_Index_of_机器]]
  [[Projects/EntelechySystem_theory/Notes/概念/_Index_of_概念|_Index_of_概念]]
  [[Projects/EntelechySystem_theory/Notes/概念与知识与语言/_Index_of_概念与知识与语言|_Index_of_概念与知识与语言]]
