@@ -20,12 +20,12 @@ path:("Analyse/EntelechySystem" OR "Analyse/定义术语") OR tags:("#项目/Ent
 
 ### 视图窗口显示绿色
 
-path:("Analyse/MachineOperationSystem " OR "Notes/机制" OR "Notes/机器功能" OR "Notes/硬件") OR tags:("tag:#项目/MOS" OR "tag:#内容/认知" OR "tag:#内容/任务" OR "tag:#内容/决策" OR "tag:#内容/机制" OR "tag:#内容/功能" OR "#内容/机器")
+path:("Analyse/MachineOperationSystem " OR "Notes/机制" OR "Notes/机器功能" OR "Notes/硬件" OR "Notes/思维") OR tags:("tag:#项目/MOS" OR "tag:#内容/思维" OR "tag:#内容/认知" OR "tag:#内容/任务" OR "tag:#内容/决策" OR "tag:#内容/机制" OR "tag:#内容/功能" OR "#内容/机器")
 
 
 ### 视图窗口显示红色
 
-path:("Analyse/ElementalConceptionSystem" OR "Notes/意象" OR "Notes/思维分析" OR "Notes/语言" OR "Notes/概念") OR tags:("#项目/ECS" OR "#内容/玄学" OR "#内容/概念" OR "#内容/语言" OR "#内容/知识" OR "#内容/语义" OR "#内容/意象")
+path:("Analyse/ElementalConceptionSystem" OR "Notes/意象" OR "Notes/语言" OR "Notes/概念") OR tags:("#项目/ECS" OR "#内容/玄学" OR "#内容/概念" OR "#内容/语言" OR "#内容/知识" OR "#内容/语义" OR "#内容/意象")
 
 
 ### 视图窗口显示橙黄色
