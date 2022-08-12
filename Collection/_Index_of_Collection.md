@@ -12,8 +12,6 @@
  [[Projects/EntelechySystem_theory/Collection/Agent之几种交互变动方式|Agent之几种交互变动方式]]
  [[Projects/EntelechySystem_theory/Collection/ElementsCognitionSystem|ElementsCognitionSystem]]
  [[Projects/EntelechySystem_theory/Collection/NAL-TruthFunctions 真值函数：来源破耳狼.xlsx|NAL-TruthFunctions 真值函数：来源破耳狼.xlsx]]
- [[Projects/EntelechySystem_theory/Collection/Untitled 1|Untitled 1]]
- [[Projects/EntelechySystem_theory/Collection/Untitled Diagram.drawio|Untitled Diagram.drawio]]
  [[Projects/EntelechySystem_theory/Collection/Untitled|Untitled]]
  [[Projects/EntelechySystem_theory/Collection/一些处理器2022-05-29|一些处理器2022-05-29]]
  [[Projects/EntelechySystem_theory/Collection/一些零散的外部资料/_Index_of_一些零散的外部资料|_Index_of_一些零散的外部资料]]
