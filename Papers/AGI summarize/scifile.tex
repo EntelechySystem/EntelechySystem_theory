@@ -1,6 +1,7 @@
 % Use only LaTeX2e, calling the article.cls class and 12-point type.
 
 \documentclass[12pt]{ctexart}
+% \documentclass[a4paper, 12pt, UTF8]{ctexart}
 
 % Users of the {thebibliography} environment or BibTeX should use the
 % scicite.sty package, downloadable from *Science* at
@@ -151,12 +152,12 @@
 % Place your abstract within the special {sciabstract} environment.
 
 \begin{sciabstract}
-  This document presents a number of hints about how to set up your
-  {\it Science\/} paper in \LaTeX\ .  We provide a template file,
-  \texttt{scifile.tex}, that you can use to set up the \LaTeX\ source
-  for your article.  An example of the style is the special
-  \texttt{\{sciabstract\}} environment used to set up the abstract you
-  see here.
+  % This document presents a number of hints about how to set up your
+  % {\it Science\/} paper in \LaTeX\ .  We provide a template file,
+  % \texttt{scifile.tex}, that you can use to set up the \LaTeX\ source
+  % for your article.  An example of the style is the special
+  % \texttt{\{sciabstract\}} environment used to set up the abstract you
+  % see here.
 \end{sciabstract}
 
 
@@ -175,39 +176,28 @@
 
 
 
-\section*{正文}
+\section*{综述}
 
 AGI综述相关：
 
-近期有一些研究意识与模拟通用人工智能的文章。其中，
+近期有一些研究意识与模拟通用人工智能的文章。其中，\citep{Reser_2022_ComputationalArchitectureMachineConsciousnessArtificialSuperintelligenceUpdatingWorkingMemoryIteratively} 设计一套维果茨基的自主人工智能体，能够与他人互动，更重要的是，能够将这些互动内在化，将其转化为支持新认知功能发展的认知工具。
 
-\citep{Reser_2022}设计一套维果茨基的自主人工智能体，能够与他人互动，更重要的是，能够将这些互动内在化，将其转化为支持新认知功能发展的认知工具
+另外，TODO\citep{Colas.Karch.ea_2022_VygotskianAutotelicArtificialIntelligenceLanguageCultureInternalizationHumanLikeAI} \citep{Liang_2022_BrainishFormalizingMultimodalLanguageIntelligenceConsciousness} 提出了一种多模态（以视觉和自然语言二模态为例）转换方式。设计了一种多模态语言学习框架：编码->表示空间->解码。此外，设计对应的多模态处理器：视听处理器、语言视觉处理器、情绪处理器、建模世界处理器（多主体强化学习相关）、内在语言视觉触觉感受器（编码后之表现形式）。
 
-TODO\citep{Colas.Karch.ea_2022}。
+文献 \citep{Gudwin.Paraense.ea_2018_OverviewMultipurposeEnhancedCognitiveArchitectureMECA} 提出了关于被称为多用途增强认知结构（MECA）的模型之综述。MECA是基于来自Dual Process Theory，Dynamic Subsumption，Concept Spaces和Grounded Cognition的许多想法而设计的。其中，该认知结构由其开发的工具包使用CST构建。这类模型架构被认为是 TODO。
 
-\citep{Liang_2022}提出了一种多模态（以视觉和自然语言二模态为例）转换方式。设计了一种多模态语言学习框架：编码->表示空间->解码。此外，设计对应的多模态处理器：视听处理器、语言视觉处理器、情绪处理器、建模世界处理器（多主体强化学习相关）、内在语言视觉触觉感受器（编码后之表现形式）
+因果涌现与信息论方面：\citep{williams2010nonnegative}提出多变量信息结构，用于测度冗余信息熵。并且以绘制冗余韦恩图或者冗余晶格图之形式描述冗余信息。\citep{Graves.Wayne.ea_2014_NeuralTuringMachines}结合图灵机思想和LSTM方法，有效解决了长期记忆不稳定的问题。
 
-文献\citep{Gudwin.Paraense.ea_2018_OverviewMultipurposeEnhancedCognitiveArchitectureMECA}提出了关于被称为多用途增强认知结构（MECA）的模型之综述。MECA是基于来自Dual Process Theory，Dynamic Subsumption，Concept Spaces和Grounded Cognition的许多想法而设计的。其中，该认知结构由其开发的工具包使用CST构建。这类模型架构被认为是
+关于意识的数学模型方面，\citep{Signorelli.Wang.ea_2021_CompositionalModelConsciousnessBasedConsciousnessOnly} \citep{Reser_2022_ComputationalArchitectureMachineConsciousnessArtificialSuperintelligenceUpdatingWorkingMemoryIteratively}作者借鉴佛学思想中六识的思想，试图用范畴论方法构造数学模型以解释意识。
 
-
-因果涌现与信息论方面：
-
-\citep{williams2010nonnegative}提出多变量信息结构，用于测度冗余信息熵。并且以绘制冗余韦恩图或者冗余晶格图之形式描述冗余信息。
-
-\citep{Graves.Wayne.ea_2014_NeuralTuringMachines}结合图灵机思想和LSTM方法，有效解决了长期记忆不稳定的问题。
+自生成结构方面：\citep{Chan_2020_LeniaExpandedUniverse}创新性地扩展康威生命游戏的空间和时间为连续形式，更接近拟合现实的微生物世界。其中能够被我们借鉴的方面有，帮助我们分析agents的演变方式。
 
 
-关于意识的数学模型方面，\citep{Signorelli.Wang.ea_2021_CompositionalModelConsciousnessBasedConsciousnessOnly} \citep{Signorelli.Wang.ea_2021_Reasoningconsciousexperienceaxiomaticgraphicalmathematics}作者借鉴佛学思想中六识的思想，试图用范畴论方法构造数学模型以解释意识。
+语义理解和构式语法方面：\citep{Lindes_2022_ConstructingMeaningPiecePieceComputationalCognitiveModelHumanSentenceComprehension}使用一个名为 Lucia 的系统。其通过逐段构建句子的含义来工作。其从经验中获得语言的理论（LAE），其中一些部分已经通过实验实现。 为了符合这些原则，Lucia 模型在一个名为 Rosie 的机器人代理中实现，以进行 E3C。它使用体现构造语法 (ECG) 作为其表示可组合意义知识 (CKM) 的方法，并证明可以使用依赖于通用认知机制 (GCM) 的新型理解算法来增量处理 (I3P) 这种知识。SOAR认知架构以产生具体的端到端理解 (E3C)。Lucia 为回答更广泛的科学问题做出了多项贡献。它为基于三阶段构建周期的增量处理（I3P）提供了一种新颖的理论。它提供了一个关于记忆在理解过程中如何相互作用的理论。它展示了对具体机器人代理的扎实理解。最后，它提供了一个详细的、功能性的认知 E3C 处理模型，可以作为进一步研究大脑中人类语言处理建模和为人工代理设计更大规模语言模型的基础。
 
-
-自生成结构方面：
-
-\citep{Chan_2020_LeniaExpandedUniverse}创新性地扩展康威生命游戏的空间和时间为连续形式，更接近拟合现实的微生物世界。其中能够被我们借鉴的方面有，帮助我们分析agents的演变方式。
-
-
-在生物的神经基础方面：
-
-空间认知领域，\citep{Kazanovich.Kazanovich_2018_HowAnimalsFindTheirWaySpaceExperimentsModeling} \citep{OKeefe.Dostrovsky_1971_hippocampusspatialmapPreliminaryevidenceunitactivityfreelymovingrat} \citep{OKeefe_1976_Placeunitshippocampusfreelymovingrat} 通过研究小鼠在空间的实验，获取海马体电位信息，发现小鼠在空间跑动位置，在脑区的特定地方有一个对应，响应方式是发放神经脉冲。这个位置被发现在entorhinal cortex这个区域。这个区域内部神经元分布类似蜂巢网格状分布。于是提出存在神经元表示空间信息。并且存在基本的几何变换，例如平移、旋转、缩放等。
+在生物的神经基础方面：空间认知领域，
+% \citep{Kazanovich.Kazanovich_2018_HowAnimalsFindTheirWaySpaceExperimentsModeling}、#BUG 本段导致bib错误！
+\citep{OKeefe.Dostrovsky_1971_hippocampusspatialmapPreliminaryevidenceunitactivityfreelymovingrat}、\citep{OKeefe_1976_Placeunitshippocampusfreelymovingrat}通过研究小鼠在空间的实验，获取海马体电位信息，发现小鼠在空间跑动位置，在脑区的特定地方有一个对应，响应方式是发放神经脉冲。这个位置被发现在entorhinal cortex这个区域。这个区域内部神经元分布类似蜂巢网格状分布。于是提出存在神经元表示空间信息。并且存在基本的几何变换，例如平移、旋转、缩放等。 
 
 
 
@@ -220,8 +210,10 @@ TODO\citep{Colas.Karch.ea_2022}。
 % \label{参考文献}
 
 \bibliographystyle{gbt7714-author-year}
+
 % \bibliographystyle{Science}
-\bibliography{../EntelechySystem}
+
+\bibliography{../EntelechySystem.bib}
 
 
 
@@ -231,12 +223,12 @@ TODO\citep{Colas.Karch.ea_2022}。
 % *Science* for acknowledgments of funding, help, etc.
 
 \begin{scilastnote}
-\item We've included in the template file \texttt{scifile.tex} a new
-environment, \texttt{\{scilastnote\}}, that generates a numbered final
-citation without a corresponding signal in the text.  This environment
-can be used to generate a final numbered reference containing
-acknowledgments, sources of funding, and the like, per {\it Science\/}
-style.
+ \item We've included in the template file \texttt{scifile.tex} a new
+ environment, \texttt{\{scilastnote\}}, that generates a numbered final
+ citation without a corresponding signal in the text.  This environment
+ can be used to generate a final numbered reference containing
+ acknowledgments, sources of funding, and the like, per {\it Science\/}
+ style.
 \end{scilastnote}
 
 
