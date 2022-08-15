@@ -9,6 +9,7 @@
  [[Projects/EntelechySystem_theory/Notes/意象/_Index_of_意象|_Index_of_意象]]
  [[Projects/EntelechySystem_theory/Notes/机制/_Index_of_机制|_Index_of_机制]]
  [[Projects/EntelechySystem_theory/Notes/机器功能/_Index_of_机器功能|_Index_of_机器功能]]
+ [[Projects/EntelechySystem_theory/Notes/构式/_Index_of_构式|_Index_of_构式]]
  [[Projects/EntelechySystem_theory/Notes/概念/_Index_of_概念|_Index_of_概念]]
  [[Projects/EntelechySystem_theory/Notes/玄学里的优秀思想|玄学里的优秀思想]]
  [[Projects/EntelechySystem_theory/Notes/硬件/_Index_of_硬件|_Index_of_硬件]]
