@@ -17,7 +17,7 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 - 产生、整合、归纳、分析自己从过去以来至今的思考结果，继承自原有的三个项目：
 	- Elemental Cognition System；
 	- Life Management System；
-	- Complex Agents System；
+	- Agents World System；
 - 借鉴和吸收人类文明优秀的知识结晶，包括且不限于：
 	- 借鉴吸收现有许多关于人工智能理论之思想和实现，包括深度学习（2018年附近）、强化学习（2018年附近）、因果推断（2018年前后）、图学习（2018年附近）、图形图像处理（2018年附近）、自然语言处理（2018年附近）。
 	- 现有许多关于数学和系统科学理论之思想，包括复杂网络（2018年之前）、最优控制（2018年之前）等、动力系统（2018年之前）、概率统计（2018年之前）等；
@@ -45,8 +45,8 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 生机系统由四大子系统构成:
 - 基本的认知系统（Elemental Cognition System，ECS）；
 - 生命周期管理系统（Life Management System，LMS）；
-- 复杂机器工厂运作系统（Machine Operation System, MOS）；
-- 复杂多智能体系统（Complex Agents System，CAS）；
+- 复杂智能体系统（Complex Intelligence System, CIS）；
+- 复杂多智能体系统（Agents World System，AWS）；
 
 
 图示如下：
