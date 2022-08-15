@@ -20,7 +20,7 @@ path:("Analyse/EntelechySystem" OR "Analyse/定义术语") OR tags:("#项目/Ent
 
 ### 视图窗口显示绿色
 
-path:("Analyse/MachineOperationSystem " OR "Notes/机制" OR "Notes/机器功能" OR "Notes/硬件" OR "Notes/思维") OR tags:("tag:#项目/MOS" OR "tag:#内容/思维" OR "tag:#内容/认知" OR "tag:#内容/任务" OR "tag:#内容/决策" OR "tag:#内容/机制" OR "tag:#内容/功能" OR "#内容/机器")
+path:("Analyse/MachineOperationSystem " OR "Notes/机制" OR "Notes/机器功能" OR "Notes/硬件" OR "Notes/思维") OR tags:("tag:#项目/CIS" OR "tag:#内容/思维" OR "tag:#内容/认知" OR "tag:#内容/任务" OR "tag:#内容/决策" OR "tag:#内容/机制" OR "tag:#内容/功能" OR "#内容/机器")
 
 
 ### 视图窗口显示红色
@@ -36,7 +36,7 @@ path:("Analyse/LifeManagementSystem" OR "Notes/个人与社会属性" OR "Notes/
 
 ### 视图窗口显示蓝色
 
-path:("Analyse/ComplexAgentsSystem" OR "Notes/多智能体" OR "Notes/世界") OR tags:("#项目/CAS")
+path:("Analyse/ComplexAgentsSystem" OR "Notes/多智能体" OR "Notes/世界") OR tags:("#项目/AWS")
 
 
 ## 局部视图窗口只选有关文件夹
