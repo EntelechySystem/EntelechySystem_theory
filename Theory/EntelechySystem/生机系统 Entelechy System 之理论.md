@@ -4,7 +4,7 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 
 
 > [!info] 版本
-> V0.1.1
+> V0.2.1
 >
 > 该版本起于2022年06月07日，于岳麓山下桃子湖畔，至于今为2022年，止于？
 
@@ -40,13 +40,13 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 
 ## 生机系统之整体框架
 
-**生机系统**（Entelechy World，EW），别称**生机系统系统**。这是一个同时在宏观世界交互尺度、微观运作尺度、中观个体认知尺度互相交互的系统。
+**生机系统**（Entelechy System，ES）。该系统是一个同时在宏观世界交互尺度、微观运作尺度、中观个体认知尺度互相交互的系统。
 
 生机系统由四大子系统构成:
-- 基本的认知系统（Elemental Cognition System，ECS）；
-- 生命周期管理系统（Life Management System，LMS）；
-- 复杂智能体系统（Complex Intelligence System, CIS）；
-- 复杂多智能体系统（Agents World System，AWS）；
+-   [复杂智能体系统（Complex Intelligence System, CIS）](https://github.com/EthanSystem/ComplexIntelligenceSystem.git)；
+-   [基本认知系统（Elemental Cognition System，ECS）](https://github.com/EthanSystem/ElementalConceptionSystem.git)；
+-   [生命周期管理系统（Life Management System，LMS）](https://github.com/EthanSystem/LifeManagementSystem.git)；
+-   [多智能体世界系统（Agents World System，AWS）](https://github.com/EthanSystem/AgentsWorldSystem.git)；
 
 
 图示如下：
