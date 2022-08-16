@@ -447,7 +447,7 @@ octave-workspace
 
 ### Obsidian ###
 # config dir
-.obsidian/
+.obsidian/plugins/*
 
 ### Octave ###
 # Windows default autosave extension
