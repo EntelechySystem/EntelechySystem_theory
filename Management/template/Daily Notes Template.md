@@ -8,19 +8,22 @@ tags: #日期/{{date:YYYY-MM-DD}} #类型/日志
 
 ## 科研
 
-- [ ] 
+- [ ] (@{{date:YYYY-MM-DD}})
+
 
 ## 学习
 
-- [ ] 
+- [ ] (@{{date:YYYY-MM-DD}})
+
 
 ## 探索
 
-- [ ] 
+- [ ] (@{{date:YYYY-MM-DD}})
 
 
 ## 管理
 
+- [ ] (@{{date:YYYY-MM-DD}})
 
 
 
