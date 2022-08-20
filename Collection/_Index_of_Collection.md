@@ -47,6 +47,7 @@
  [[Projects/EntelechySystem_theory/Collection/组合之于知情权与命题确定性|组合之于知情权与命题确定性]]
  [[Projects/EntelechySystem_theory/Collection/视觉感知过程|视觉感知过程]]
  [[Projects/EntelechySystem_theory/Collection/讨论：关于神经元如何处理决策功能|讨论：关于神经元如何处理决策功能]]
+ [[Projects/EntelechySystem_theory/Collection/讨论：关于自然语言通用结构|讨论：关于自然语言通用结构]]
  [[Projects/EntelechySystem_theory/Collection/讨论：思考嵌套思考_2022-08-06|讨论：思考嵌套思考_2022-08-06]]
  [[Projects/EntelechySystem_theory/Collection/讨论：意义之于原子化拆分构式|讨论：意义之于原子化拆分构式]]
  [[Projects/EntelechySystem_theory/Collection/读取功能|读取功能]]
