@@ -6,6 +6,7 @@
  [[Projects/EntelechySystem_theory/Notes/人生/_Index_of_人生|_Index_of_人生]]
  [[Projects/EntelechySystem_theory/Notes/多智能体/_Index_of_多智能体|_Index_of_多智能体]]
  [[Projects/EntelechySystem_theory/Notes/思维/_Index_of_思维|_Index_of_思维]]
+ [[Projects/EntelechySystem_theory/Notes/思维分析/_Index_of_思维分析|_Index_of_思维分析]]
  [[Projects/EntelechySystem_theory/Notes/意象/_Index_of_意象|_Index_of_意象]]
  [[Projects/EntelechySystem_theory/Notes/机制/_Index_of_机制|_Index_of_机制]]
  [[Projects/EntelechySystem_theory/Notes/机器功能/_Index_of_机器功能|_Index_of_机器功能]]
