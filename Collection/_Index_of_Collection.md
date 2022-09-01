@@ -21,6 +21,7 @@
  [[Projects/EntelechySystem_theory/Collection/事件|事件]]
  [[Projects/EntelechySystem_theory/Collection/事务之事前事中事后_20220718|事务之事前事中事后_20220718]]
  [[Projects/EntelechySystem_theory/Collection/交流：关于概念认知|交流：关于概念认知]]
+ [[Projects/EntelechySystem_theory/Collection/价格数字的心理预期|价格数字的心理预期]]
  [[Projects/EntelechySystem_theory/Collection/例子：为什么认为马里奥就是那个屎？|例子：为什么认为马里奥就是那个屎？]]
  [[Projects/EntelechySystem_theory/Collection/关于回忆梦|关于回忆梦]]
  [[Projects/EntelechySystem_theory/Collection/关于循环调用导致死循环|关于循环调用导致死循环]]
