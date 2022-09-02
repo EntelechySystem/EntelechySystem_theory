@@ -32,6 +32,7 @@
  [[Projects/EntelechySystem_theory/Collection/反作用涌现时的系统规则信息|反作用涌现时的系统规则信息]]
  [[Projects/EntelechySystem_theory/Collection/当明白了一个道理时发生了什么20220626|当明白了一个道理时发生了什么20220626]]
  [[Projects/EntelechySystem_theory/Collection/性格能量特质之属性|性格能量特质之属性]]
+ [[Projects/EntelechySystem_theory/Collection/想法：2022-09-02|想法：2022-09-02]]
  [[Projects/EntelechySystem_theory/Collection/想法：二元对立的相对性|想法：二元对立的相对性]]
  [[Projects/EntelechySystem_theory/Collection/想法：如何生成机器_2022-08-04|想法：如何生成机器_2022-08-04]]
  [[Projects/EntelechySystem_theory/Collection/想要、应该、能够|想要、应该、能够]]
