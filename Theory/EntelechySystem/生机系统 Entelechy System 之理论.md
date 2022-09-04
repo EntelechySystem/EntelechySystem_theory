@@ -67,7 +67,7 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 
 生机系统之四象限通过两个维度，划分系统为四个象限，每个象限各对应一个子系统。
 
-![总体分析框架-生机系统之总体框架-四象限.drawio](生机系统 Entelechy System 之理论.assets/总体分析框架-生机系统之总体框架-四象限.drawio.svg)
+![总体分析框架-生机系统之总体框架-四象限.drawio](./生机系统 Entelechy System 之理论.assets/总体分析框架-生机系统之总体框架-四象限.drawio.svg)
 
 
 
