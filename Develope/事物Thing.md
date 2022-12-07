@@ -17,12 +17,14 @@
 - [[内容Content]]
 
 [[事物Thing]]装载的[[内容Content]]之不同[[内容类型ContentType]]，划分为：
+- [[个体Agent]]
 - [[机Machine]]
 - [[器Container]]
 - [[对象Object]]
 - [[数据Data]]
 
-
+[[事物Thing]]按照所处[[状态State]]，划分为：
+- [[初始态InitState]]
 
 
 
