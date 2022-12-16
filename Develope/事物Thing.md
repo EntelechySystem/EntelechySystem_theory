@@ -18,7 +18,7 @@
 
 [[事物Thing]]装载的[[内容Content]]之不同[[内容类型ContentType]]，划分为：
 - [[个体Agent]]
-- [[机Machine]]
+- [[机Ji]]
 - [[器Container]]
 - [[对象Object]]
 - [[数据Data]]
