@@ -1,30 +1,27 @@
-# 事物Thing
+# 事物Object
 
 
-表示一个待处理的事物。其具有以下方面：
+表示一个待处理的事物。其具有以下特点：
 - 独立性：以节点形式存在。
 - 可容纳：可以被容纳、嵌套更多[[事物Thing]]可连接：可以与其它[[事物Thing]]种联接、组合、嵌套。
 - 可过程化：连接与嵌套出来的各个[[事物Thing]]按照运作顺序，形成一个流程。
 
-[[事物Thing]]之[[结构Structure]]如下：
+[[事物Thing]]如下：
 - [[属性Property]]
 - [[内容Content]]
 
 [[事物Thing]]同表现的[[方面Aspect]]，划分为
-- [[特征Attribute]]
+- [[容器Container]]
 - [[节点Node]]
 - [[过程Process]]
-- [[内容Content]]
 
-[[事物Thing]]装载的[[内容Content]]之不同[[内容类型ContentType]]，划分为：
-- [[个体Agent]]
-- [[机Ji]]
-- [[器Container]]
-- [[对象Object]]
+[[事物Thing]]装载的[[内容Content]]
+之不同[[内容类型ContentType]]，划分为：
+- [[模型Model]]
+- [[算法Algorithm]]
 - [[数据Data]]
 
-[[事物Thing]]按照所处[[状态State]]，划分为：
-- [[初始态InitState]]
+
 
 
 
@@ -34,7 +31,7 @@
 - [[层级结构HierachyStructure]]：
 
 
-[[事物Thing]][[属性Property]]具有[[参数Parameter]]：[[内容类型ContentType]]。
+[[事物Thing]]属性Property]]具有[[参数Parameter]]：[[内容类型ContentType]]。
 
 [[事物Thing]]同[[状态State]]，划分为：
 - [[组件Component]]
