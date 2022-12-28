@@ -6,7 +6,7 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 > [!info] 版本
 > V0.2.1
 >
-> 该版本起于2022年06月07日，于岳麓山下桃子湖畔，至于今为2022年，止于？
+> 该版本起于2022年06月07日，于岳麓山下桃子湖畔，至于今为2022年。
 
 
 
@@ -42,13 +42,25 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 
 
 
-## 简介
+# 简介
 
 **生机系统**（Entelechy System，ES）。该系统是一个同时在宏观世界交互尺度、微观运作尺度、中观个体认知尺度互相交互的系统。
 
+
+
+# 相关文件
+
+
+
+- [相关理论的仓库](https://github.com/EntelechySystem/EntelechySystem_theory.git)
+- 相关开发的仓库：如下文所述。
+
+
+# 描述
+
 ## 构成
 
-生机系统由四大子系统构成:
+生机系统由四大子系统构成。这四个子系统相关的开发的仓库链接为：
 
 -   [复杂智能体系统（Complex Intelligence System, CIS）](https://github.com/EthanSystem/ComplexIntelligenceSystem.git)；
     
@@ -58,6 +70,7 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
     
 -   [多智能体世界系统（Agents World System，AWS）](https://github.com/EthanSystem/AgentsWorldSystem.git)；
     
+
 
 ### 生机系统之四分法
 
@@ -136,3 +149,9 @@ tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工�
 ![[总体分析框架.drawio]]
 
 ![[程序设计.drawio]]
+
+
+
+
+
+
