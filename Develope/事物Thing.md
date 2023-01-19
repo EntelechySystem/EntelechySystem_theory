@@ -13,7 +13,7 @@
 [[事物Thing]]同表现的[[方面Aspect]]，划分为
 - [[容器Container]]
 - [[节点Node]]
-- [[Develope/过程Process]]
+- [[过程Process]]
 
 [[事物Thing]]装载的[[内容Content]]
 之不同[[内容类型ContentType]]，划分为：
