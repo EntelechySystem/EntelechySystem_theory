@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 16,
+  "theme": "system",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "my_markdown_style_snippets_for_obsidian_20210807",
+    "my_markdown_style_snippets_for_obsidian_20210807_blue",
+    "my_markdown_style_snippets_for_obsidian_blue"
+  ],
+  "interfaceFontFamily": "Times New Roman,Songti SC,华文中宋",
+  "textFontFamily": "Times New Roman,Songti SC,华文中宋",
+  "accentColor": ""
+}
