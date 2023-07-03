@@ -1,0 +1,1965 @@
+{
+  "main": {
+    "id": "0963b7fcf36b4642",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c56886edf6ece04",
+        "type": "tabs",
+        "dimension": 21.574074074074073,
+        "children": [
+          {
+            "id": "d2084c67fe25abd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "31de0b2a215449ae",
+        "type": "tabs",
+        "dimension": 78.42592592592592,
+        "children": [
+          {
+            "id": "d6f1638d3cdef888",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7043748d6475d976",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "78a419409448ac36",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1a790f4eba714d99",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/LifeManagementSystem/生命周期管理系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1c1cd7e791990ff4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/AgentsWorldSystem/智能群世界系统.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f50bd763ce7dee0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "359966c404fe4497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开发基本框架项目/项目：开发基本框架程序.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18b8eb74b3bfd773",
+    "type": "split",
+    "children": [
+      {
+        "id": "30809ca50a85c986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8228b71c072e93b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "bfda48882468dab2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "computer shader",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7210c4f59b4ccccb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e41ef0e271bbca0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e625620a4b87d8c1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "884bb31a6b698fd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "afa286b78ba5e2b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ef6685bc2ebc12a",
+        "type": "tabs",
+        "dimension": 31.601731601731604,
+        "children": [
+          {
+            "id": "99eb59a29b9d482c",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "51d720df551d4605",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c739ec3aba7bbaa",
+        "type": "tabs",
+        "dimension": 28.860028860028862,
+        "children": [
+          {
+            "id": "a00d59473a2008a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10b5ee6ba4f94e16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ccf47346b35ad94e",
+        "type": "tabs",
+        "dimension": 39.53823953823954,
+        "children": [
+          {
+            "id": "5b979dff4bd06331",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65535
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65280
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16772864
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 255
+                      }
+                    },
+                    {
+                      "query": "path:Collection",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13619151
+                      }
+                    },
+                    {
+                      "query": "path:Notes",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.05797334558824,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "ee83850e9af6f35a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "open-vscode:VSCode": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false
+    }
+  },
+  "floating": {
+    "id": "ade542f4881b485e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f8a17ad95adc61df",
+        "type": "window",
+        "children": [
+          {
+            "id": "c2a90c55d6d50636",
+            "type": "split",
+            "dimension": 22.22222222222222,
+            "children": [
+              {
+                "id": "6a2bbcaa5b4ba10d",
+                "type": "tabs",
+                "dimension": 55.81643543223053,
+                "children": [
+                  {
+                    "id": "a927480b316a02d6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "b0beb1694abe3781",
+                "type": "tabs",
+                "dimension": 44.18356456776948,
+                "children": [
+                  {
+                    "id": "240683e71d8ab834",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65535
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65280
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16711680
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16772864
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
+                              }
+                            },
+                            {
+                              "query": "path:Collection",
+                              "color": {
+                                "a": 1,
+                                "rgb": 13619151
+                              }
+                            },
+                            {
+                              "query": "path:Notes",
+                              "color": {
+                                "a": 1,
+                                "rgb": 0
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 2.51092122395833,
+                          "lineSizeMultiplier": 5,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "2d872edcf2997a3f",
+            "type": "split",
+            "dimension": 63.37678460583489,
+            "children": [
+              {
+                "id": "7983f15843570f29",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2f2aa438f283e9cf",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/机制/概念机制.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "813723b7a7627a94",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/机制/意象机制.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "bb141860c2ac9d2c",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/机制/场景机制.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "2c65ec1a164e72a4",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/语言/语言结构.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ],
+                "currentTab": 3
+              },
+              {
+                "id": "247ee67254667630",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "7d0833011625cc64",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Projects/收集整理/项目：收集各种语言之结构.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "67895583f4026d81",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/构式/构式：什么做什么.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "d5b418de17a7c2fc",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/意象/项目：收集各种意象.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "8e5a248f8869fcec",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/概念/项目：收集各种概念.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "e49d8316d737acc8",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Projects/收集整理/项目：收集常用提示话术体系（思考、话题转移规则）.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "dfa8bbb6174039a0",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Theory/LifeManagementSystem/项目：收集评价体系相关概念.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ],
+                "currentTab": 4
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "488f0a03fa373c96",
+            "type": "split",
+            "dimension": 14.400993171942892,
+            "children": [
+              {
+                "id": "36c04666c1badcd9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "03524706910208b8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0aa20e8570f81029",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2c07fa110870e6b5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 2793,
+        "y": -703,
+        "width": 1279,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "25b0083c85f2b5e8",
+        "type": "window",
+        "children": [
+          {
+            "id": "d920ee3a72b5d4ef",
+            "type": "split",
+            "dimension": 20.4296875,
+            "children": [
+              {
+                "id": "880887a3bdde2ada",
+                "type": "tabs",
+                "dimension": 54.46768060836503,
+                "children": [
+                  {
+                    "id": "71795f808b1a73e4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "b5182f61ae69875d",
+                "type": "tabs",
+                "dimension": 45.53231939163497,
+                "children": [
+                  {
+                    "id": "57e80889c40f2e8b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65535
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65280
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16711680
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16772864
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
+                              }
+                            },
+                            {
+                              "query": "path:Collection",
+                              "color": {
+                                "a": 1,
+                                "rgb": 13619151
+                              }
+                            },
+                            {
+                              "query": "path:Notes",
+                              "color": {
+                                "a": 1,
+                                "rgb": 0
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": true,
+                          "textFadeMultiplier": -0.4,
+                          "nodeSizeMultiplier": 3.2522216796875,
+                          "lineSizeMultiplier": 5,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 302,
+                          "scale": 1,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "885e3e2b05f10f08",
+            "type": "tabs",
+            "dimension": 66.171875,
+            "children": [
+              {
+                "id": "b459601544faad81",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/思维/思维机制.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "cddba1b9fcd3a1a1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/思维/内进内出型思维过程.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "725e09bc4b9654a9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/机制/过程之特点.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "01c18329c286f21d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/机制/实体数据结构和过程机制.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "2a66fce6335561d9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/机制/更新状态变量.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "106d9e2d4319b206",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/机制/关于循环调用导致死循环.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "75e493df4020a73d",
+            "type": "split",
+            "dimension": 13.398437499999998,
+            "children": [
+              {
+                "id": "a9933c2765cb1ea4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "018245e877859467",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "916775c6177f69e1",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "edce881f59452313",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 2571,
+        "y": -703,
+        "width": 1501,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "745a2d4af0045e45",
+        "type": "window",
+        "children": [
+          {
+            "id": "b98685b4d78b3be0",
+            "type": "split",
+            "dimension": 21.530343007915565,
+            "children": [
+              {
+                "id": "378bd9757f461948",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6d16e0b1904420a4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "aebb2f192a0fe061",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "fa7b82aa283478b5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65535
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65280
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16711680
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16772864
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
+                              }
+                            },
+                            {
+                              "query": "path:Collection",
+                              "color": {
+                                "a": 1,
+                                "rgb": 13619151
+                              }
+                            },
+                            {
+                              "query": "path:Notes",
+                              "color": {
+                                "a": 1,
+                                "rgb": 0
+                              }
+                            }
+                          ],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 3.19160970052083,
+                          "lineSizeMultiplier": 5,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "ca202548e35096a7",
+            "type": "tabs",
+            "dimension": 63.43007915567283,
+            "children": [
+              {
+                "id": "fa802021997108f7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/案例：烧水倒水问题/项目：家里烧水倒水案例.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "556c1fb741853d4e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/案例：烧水倒水问题/案例：详细思维过程之于问题流程关于家里烧水_20210719.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "3a643f990ce67670",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/案例：烧水倒水问题/案例：思维问题流程关于家里烧水_20210719.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "b746dfed6d43c301",
+            "type": "split",
+            "dimension": 15.039577836411608,
+            "children": [
+              {
+                "id": "1f9e11d3ce3649ee",
+                "type": "tabs",
+                "dimension": 44.598337950138514,
+                "children": [
+                  {
+                    "id": "d27d14536dbb3c49",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "ead13a0f3a8ccc47",
+                "type": "tabs",
+                "dimension": 55.401662049861486,
+                "children": [
+                  {
+                    "id": "5de2d1f06533b235",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 1892,
+        "y": -703,
+        "width": 1800,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "a5d9df9e0626e5fe",
+        "type": "window",
+        "children": [
+          {
+            "id": "71b2d2e69673b9d7",
+            "type": "split",
+            "dimension": 18.48375451263538,
+            "children": [
+              {
+                "id": "b8b56a9a36bec65c",
+                "type": "tabs",
+                "dimension": 65.85014409221903,
+                "children": [
+                  {
+                    "id": "5e849a5b3fb4df34",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "830725bca2ed01ef",
+                "type": "tabs",
+                "dimension": 34.14985590778098,
+                "children": [
+                  {
+                    "id": "3128925d3d0d6c31",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65535
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65280
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16711680
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16772864
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
+                              }
+                            },
+                            {
+                              "query": "path:Collection",
+                              "color": {
+                                "a": 1,
+                                "rgb": 13619151
+                              }
+                            },
+                            {
+                              "query": "path:Notes",
+                              "color": {
+                                "a": 1,
+                                "rgb": 0
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 2.85784505208333,
+                          "lineSizeMultiplier": 5,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "f160b9ab6148bb9d",
+            "type": "tabs",
+            "dimension": 33.50180505415162,
+            "children": [
+              {
+                "id": "9272cf3ee143a2c1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/开发基本框架项目/项目：开发基本框架程序.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "8c9c714ff3b82361",
+            "type": "tabs",
+            "dimension": 23.225030084235858,
+            "children": [
+              {
+                "id": "2127aa411ac6ee38",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Develope/事物Thing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0a55c628341bd01f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Develope/过程Process.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "dade526aad1cbc3e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Develope/实体Entity.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "64372b352ae6b17a",
+            "type": "split",
+            "dimension": 24.789410348977135,
+            "children": [
+              {
+                "id": "9e2fbc40262a6fe4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d47229567121476a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "5d9b5520e2a8e9d6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0eb5afdfabf2f924",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 1892,
+        "y": -703,
+        "width": 1800,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "5cb4433cb2f3dca1",
+        "type": "window",
+        "children": [
+          {
+            "id": "32ba97bc72afc62f",
+            "type": "split",
+            "dimension": 29.609375,
+            "children": [
+              {
+                "id": "3390d01e8b82d2c0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d50f62dc2956bcc6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "170ae3b6333458f7",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ecd66d233e84fd4a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Theory/定义术语/【机器】.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65535
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65280
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16711680
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16772864
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
+                              }
+                            },
+                            {
+                              "query": "path:Collection",
+                              "color": {
+                                "a": 1,
+                                "rgb": 13619151
+                              }
+                            },
+                            {
+                              "query": "path:Notes",
+                              "color": {
+                                "a": 1,
+                                "rgb": 0
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 2.35679931640625,
+                          "lineSizeMultiplier": 5,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "8ba770e4a2d6db41"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "4ec482a9ea6d7078",
+            "type": "tabs",
+            "dimension": 34.21875,
+            "children": [
+              {
+                "id": "26106837ecf05b6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "66517ebeb386bbde",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Theory/定义术语/【机器】.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "8ba770e4a2d6db41"
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "f706737a8f4133e4",
+            "type": "split",
+            "dimension": 36.171875,
+            "children": [
+              {
+                "id": "fbe1c534a16e8292",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c7ac2fa4bb54c2d5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0574cfe8495a4084",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a7875c97ebfd68fd",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 2302,
+        "y": -703,
+        "width": 1770,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "31f24f1d0d6b97ac",
+        "type": "window",
+        "children": [
+          {
+            "id": "721f0d14a167c72f",
+            "type": "split",
+            "dimension": 31.17408906882591,
+            "children": [
+              {
+                "id": "caadf57b6f84978f",
+                "type": "tabs",
+                "dimension": 60.88407005838199,
+                "children": [
+                  {
+                    "id": "91f29e73dc3fe72c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "f42cf65c59998c61",
+                "type": "tabs",
+                "dimension": 39.11592994161801,
+                "children": [
+                  {
+                    "id": "6dc5c81e363dbc7b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65535
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 65280
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16711680
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 16772864
+                              }
+                            },
+                            {
+                              "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
+                              }
+                            },
+                            {
+                              "query": "path:Collection",
+                              "color": {
+                                "a": 1,
+                                "rgb": 13619151
+                              }
+                            },
+                            {
+                              "query": "path:Notes",
+                              "color": {
+                                "a": 1,
+                                "rgb": 0
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 3.5632568359375,
+                          "lineSizeMultiplier": 5,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "5a349c68efad5119",
+            "type": "tabs",
+            "dimension": 44.01388085598612,
+            "children": [
+              {
+                "id": "5d69c7add26ccc22",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/项目：设计变量之数据表示结构/项目：设计变量之数据表示结构.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "90b71901502eedb5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/项目：设计变量之数据表示结构/案例：思维过程之于设计变量之数据表示结构.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ad8b7bf29afd08a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d595f9ef2fb1fa09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Collection/案例：如何打印树结构的所有节点？.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "400c4339beffdd0e",
+            "type": "split",
+            "dimension": 24.812030075187966,
+            "children": [
+              {
+                "id": "873a3e0f5acd5950",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "17c2904a3de33e99",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "401a85efbc3d0e40",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2bd6924b2f035b2f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 2342,
+        "y": -703,
+        "width": 1730,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8228b71c072e93b1",
+  "lastOpenFiles": [
+    "Resource/Subjects/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Resource/概念画板源文件/EntelechySystem/sync.ffs_lock",
+    "Reference_zotfile/sync.ffs_lock",
+    "Reference/sync.ffs_lock",
+    "Projects/开发基本框架项目/项目：开发基本框架程序.md",
+    "Notes/机制/实体数据结构和过程机制.md",
+    "Notes/机制/更新状态变量.md",
+    "Notes/思维/内进内出型思维过程.md",
+    "Resource/概念画板源文件/EntelechySystem/ES构思程序设计和开发~22e4.ffs_tmp",
+    "attachment/串行编译实体过程.svg",
+    "attachment/实体数据结构.svg",
+    "attachment/实体过程结构示例图（新版）.svg",
+    "attachment/实体结构.svg",
+    "Notes/机制/过程之特点.md",
+    "Notes/机制/实体数据结构和过程机制~.md",
+    "Notes/一些他人的、或者交流的零散的记录笔记/讨论：关于he系统的决策机制_20220810.md",
+    "Notes/一些他人的、或者交流的零散的记录笔记/讨论：关于he系统的四象与决策机制_20220820.md",
+    "Notes/一些他人的、或者交流的零散的记录笔记/摘录：别人总结的知识种类_大约在2023-04-21前后.md",
+    "Notes/一些他人的、或者交流的零散的记录笔记/摘录：AGI工作流程2023-06-13.md",
+    "Management/template/template_for_AI.md",
+    "Management/template/markdown_file_template_for_obsidian_项目.md",
+    "Management/template/markdown_file_template_for_obsidian.md",
+    "Management/template/markdown_file_template_for_obsidian_转载.md",
+    "Management/template/markdown_file_template_for_obsidian_AI问答.md",
+    "attachment/Pasted image 20230613002158.png",
+    "Collection/Untitled.md",
+    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+    "Theory/AgentsWorldSystem/智能群世界系统.md",
+    "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+    "Collection/案例：如何打印树结构的所有节点？.md",
+    "Notes/思维/思维机制.md",
+    "Notes/语言/语言结构.md",
+    "Notes/思维/思维机制之解决问题.md",
+    "Projects/项目：设计变量之数据表示结构/案例：思维过程之于设计变量之数据表示结构.md",
+    "Projects/案例：烧水倒水问题/案例：思维问题流程关于家里烧水_20210719.md",
+    "Resource/概念画板源文件/EntelechySystem/类型、逻辑、运算、信息~a25d.ffs_tmp",
+    "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.assets/案例：设计一个过程以在实例化中初始化一个属性.svg",
+    "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.assets",
+    "attachment/状态关系与计算邻接矩阵示意图.svg",
+    "attachment/状态关系与计算图示意图.svg",
+    "attachment/8A4E3C96-4F85-4E71-A7D5-2CC74ABE8354_1_105_c.jpeg",
+    "Notes/机器功能/~$机器功能列表.xlsx",
+    "Resource/概念画板源文件/EntelechySystem/意象、概念、构式、语言~6c48.ffs_tmp",
+    "attachment/Pasted image 20230421152427.png"
+  ]
+}
