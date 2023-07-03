@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "0963b7fcf36b4642",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ed5fe05a112d02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76a8f45f96475e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/AgentsWorldSystem/智能群世界系统.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28a1ad41b55c7d89",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5dec50e29e7f4676",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d3b505837f7ba64b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#类型/交流",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fc174a6eb629ba79",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3a8869f4a684f700",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "4182e460922937fd",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e2580b4d9cf29c68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b9691f5f85ec434d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Theory/AgentsWorldSystem/智能群世界系统.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "eb179319a66c19bd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Theory/AgentsWorldSystem/智能群世界系统.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "2d50a04318487b45",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Theory/AgentsWorldSystem/智能群世界系统.md"
+          }
+        }
+      },
+      {
+        "id": "f30703b6ec843484",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "5b578432e7a2b60d",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e76a8f45f96475e7",
+  "lastOpenFiles": [
+    "Theory/LifeManagementSystem/生命周期管理系统.md",
+    "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+    "Theory/ElementalConceptionSystem/基本概念系统.md",
+    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+    "Projects/开发基本框架项目/项目：开发基本框架程序.md",
+    "Notes/思维/分析流程案例：关于一群人找人.md",
+    "Notes/思维/案例：思维问题流程关于家里烧水_20210719.md",
+    "Notes/思维/案例：详细思维过程之于问题流程关于家里烧水_20210719.md",
+    "Notes/世界/要素之智能.md",
+    "Notes/世界/要素之空间.md"
+  ]
+}
