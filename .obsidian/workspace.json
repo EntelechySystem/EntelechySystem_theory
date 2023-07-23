@@ -13,9 +13,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -104,21 +102,9 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "359966c404fe4497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/开发基本框架项目/项目：开发基本框架程序.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 262.5
   },
   "right": {
     "id": "afa286b78ba5e2b3",
@@ -235,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +237,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,7 +255,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -366,20 +349,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
       "open-vscode:VSCode": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
@@ -406,9 +389,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -424,7 +405,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -574,7 +554,7 @@
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 1
               },
               {
                 "id": "247ee67254667630",
@@ -683,7 +663,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -706,7 +685,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -719,11 +697,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 2793,
-        "y": -703,
-        "width": 1279,
-        "height": 1055,
-        "maximize": false,
+        "x": 488,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -745,9 +723,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -763,7 +739,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -952,7 +927,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -975,7 +949,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -988,10 +961,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2571,
-        "y": -703,
-        "width": 1501,
-        "height": 1055,
+        "x": 488,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       },
@@ -1013,9 +986,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1030,7 +1001,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1178,7 +1148,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1202,7 +1171,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1215,10 +1183,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1892,
-        "y": -703,
-        "width": 1800,
-        "height": 1055,
+        "x": 488,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       },
@@ -1241,9 +1209,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1259,7 +1225,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1423,7 +1388,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1446,7 +1410,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1459,10 +1422,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1892,
-        "y": -703,
-        "width": 1800,
-        "height": 1055,
+        "x": 488,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       },
@@ -1484,9 +1447,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1634,7 +1595,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1657,7 +1617,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1670,10 +1629,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2302,
-        "y": -703,
-        "width": 1770,
-        "height": 1055,
+        "x": 488,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       },
@@ -1696,9 +1655,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1714,7 +1671,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1869,7 +1825,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1892,7 +1847,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1905,27 +1859,37 @@
           }
         ],
         "direction": "vertical",
-        "x": 2342,
-        "y": -703,
-        "width": 1730,
-        "height": 1055,
+        "x": 488,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "8228b71c072e93b1",
+  "active": "f50bd763ce7dee0d",
   "lastOpenFiles": [
-    "Resource/Subjects/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Resource/概念画板源文件/EntelechySystem/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
+    "Notes/机制/意象机制.md",
+    "Resource/概念画板源文件/EntelechySystem/sync.ffs_lock",
+    "Resource/Subjects/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Notes/机制/场景机制.md",
+    "Notes/语言/语言结构.md",
+    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
     "Projects/开发基本框架项目/项目：开发基本框架程序.md",
+    "Resource/Subjects/人工智能/_Index_of_人工智能~25a5.ffs_tmp",
+    "Resource/Subjects/人工智能/数学证明/AI数学证明~b475.ffs_tmp",
+    "Resource/Subjects/人工智能/数学证明/AI数学证明~8e4b.ffs_tmp",
+    "Resource/Subjects/人工智能/数学证明/AI数学证明~cc6d.ffs_tmp",
+    "Resource/Subjects/人工智能/数学证明/_Index_of_数学证明.md",
+    "Resource/Subjects/人工智能/数学证明/AI数学证明.md",
+    "Resource/Subjects/人工智能/_Index_of_人工智能~5df5.ffs_tmp",
     "Notes/机制/实体数据结构和过程机制.md",
     "Notes/机制/更新状态变量.md",
     "Notes/思维/内进内出型思维过程.md",
-    "Resource/概念画板源文件/EntelechySystem/ES构思程序设计和开发~22e4.ffs_tmp",
     "attachment/串行编译实体过程.svg",
     "attachment/实体数据结构.svg",
     "attachment/实体过程结构示例图（新版）.svg",
@@ -1943,23 +1907,13 @@
     "Management/template/markdown_file_template_for_obsidian_AI问答.md",
     "attachment/Pasted image 20230613002158.png",
     "Collection/Untitled.md",
-    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
     "Theory/AgentsWorldSystem/智能群世界系统.md",
     "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
     "Collection/案例：如何打印树结构的所有节点？.md",
-    "Notes/思维/思维机制.md",
-    "Notes/语言/语言结构.md",
-    "Notes/思维/思维机制之解决问题.md",
-    "Projects/项目：设计变量之数据表示结构/案例：思维过程之于设计变量之数据表示结构.md",
-    "Projects/案例：烧水倒水问题/案例：思维问题流程关于家里烧水_20210719.md",
-    "Resource/概念画板源文件/EntelechySystem/类型、逻辑、运算、信息~a25d.ffs_tmp",
     "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.assets/案例：设计一个过程以在实例化中初始化一个属性.svg",
-    "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.assets",
     "attachment/状态关系与计算邻接矩阵示意图.svg",
     "attachment/状态关系与计算图示意图.svg",
     "attachment/8A4E3C96-4F85-4E71-A7D5-2CC74ABE8354_1_105_c.jpeg",
-    "Notes/机器功能/~$机器功能列表.xlsx",
-    "Resource/概念画板源文件/EntelechySystem/意象、概念、构式、语言~6c48.ffs_tmp",
     "attachment/Pasted image 20230421152427.png"
   ]
 }
