@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "0963b7fcf36b4642",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b93dcde1c42a6a",
+        "type": "split",
+        "children": [
+          {
+            "id": "8830f5513e84f6c9",
+            "type": "split",
+            "children": [
+              {
+                "id": "ee12bd0b4b1ea570",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "c8cfd91bc9fa31af",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "bbd1f99e711cfaf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collection/观想20220416.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18b8eb74b3bfd773",
+    "type": "split",
+    "children": [
+      {
+        "id": "30809ca50a85c986",
+        "type": "tabs",
+        "dimension": 71.26168224299066,
+        "children": [
+          {
+            "id": "8228b71c072e93b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfda48882468dab2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#项目/AWS",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7210c4f59b4ccccb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e41ef0e271bbca0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e625620a4b87d8c1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "04fda64fa1354687",
+        "type": "tabs",
+        "dimension": 28.738317757009348,
+        "children": [
+          {
+            "id": "d2084c67fe25abd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "afa286b78ba5e2b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ef6685bc2ebc12a",
+        "type": "tabs",
+        "dimension": 22.613065326633162,
+        "children": [
+          {
+            "id": "99eb59a29b9d482c",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "84c01084fbd0e09e",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c739ec3aba7bbaa",
+        "type": "tabs",
+        "dimension": 37.832017229002155,
+        "children": [
+          {
+            "id": "a00d59473a2008a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10b5ee6ba4f94e16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ccf47346b35ad94e",
+        "type": "tabs",
+        "dimension": 39.554917444364676,
+        "children": [
+          {
+            "id": "5b979dff4bd06331",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\" OR \"History\")",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65535
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2540096
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16694062
+                      }
+                    },
+                    {
+                      "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+                      "color": {
+                        "a": 1,
+                        "rgb": 255
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.05797334558824,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "ee83850e9af6f35a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "active": "ee12bd0b4b1ea570",
+  "lastOpenFiles": [
+    "Notes/机制/概念机制.md",
+    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+    "Notes/语言/语言结构.md",
+    "Notes/机制/意象机制.md",
+    "Projects/案例：烧水倒水问题/项目：家里烧水倒水案例.md",
+    "Projects/案例：烧水倒水问题/案例：思维问题流程关于家里烧水_20210719.md",
+    "Projects/案例：烧水倒水问题/案例：详细思维过程之于问题流程关于家里烧水_20210719.md",
+    "Collection/观想20220416.md",
+    "Collection/意象20220416.md",
+    "Collection/想要、应该、能够.md"
+  ]
+}

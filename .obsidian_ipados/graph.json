@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:(\"Theory/EntelechySystem\" OR \"Theory/定义术语\") OR tags:(\"#项目/EntelechySystem\" OR \"#内容/术语\")",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:(\"Theory/ComplexIntelligenceSystem \" OR \"Notes/机制\" OR \"Notes/机器功能\" OR \"Notes/硬件\" OR \"Notes/思维\") OR tags:(\"tag:#项目/CIS\" OR \"tag:#内容/思维\" OR \"tag:#内容/认知\" OR \"tag:#内容/任务\" OR \"tag:#内容/决策\" OR \"tag:#内容/机制\" OR \"tag:#内容/功能\" OR \"#内容/机器\")",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:(\"Theory/ElementalConceptionSystem\" OR \"Notes/意象\" OR \"Notes/语言\" OR \"Notes/概念\" OR \"Notes/语言\") OR tags:(\"#项目/ECS\" OR \"#内容/玄学\" OR \"#内容/概念\" OR \"#内容/语言\" OR \"#内容/构式\" OR \"#内容/知识\" OR \"#内容/语义\" OR \"#内容/意象\")",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:(\"Theory/LifeManagementSystem\" OR \"Notes/个人与社会属性\" OR \"Notes/人生\") OR tags:(\"#项目/LMS\")",
+      "color": {
+        "a": 1,
+        "rgb": 16772864
+      }
+    },
+    {
+      "query": "path:(\"Theory/AgentsWorldSystem\" OR \"Notes/多智能体\" OR \"Notes/世界\") OR tags:(\"#项目/AWS\")",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:Collection",
+      "color": {
+        "a": 1,
+        "rgb": 13619151
+      }
+    },
+    {
+      "query": "path:Notes",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 2.92703043619792,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.24985787631403628,
+  "close": false
+}
