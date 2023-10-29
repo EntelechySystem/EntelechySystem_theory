@@ -1,6 +1,19 @@
 # 生机系统 Entelechy System 之理论
 
-tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工智能 #发布/ES 
+
+---
+title: 生机系统 Entelechy System 之理论
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-06-07 
+  - 类型/文章 
+  - 项目/EntelechySystem 
+  - 内容/人工智能 
+  - 发布/ES 
+---
+
+
 
 
 > [!info] 版本

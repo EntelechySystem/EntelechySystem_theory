@@ -1,6 +1,17 @@
 # 概念Conception
 
-tags: #日期/2022-07-27 #类型/想法 #类型/术语 
+
+---
+title: 概念Conception
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-07-27 
+  - 类型/想法 
+  - 类型/术语 
+---
+
+
 
 
 

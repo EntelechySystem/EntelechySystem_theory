@@ -1,6 +1,17 @@
 # 过程Process
 
-tags: #日期/2022-07-30 #类型/笔记 #类型/术语 
+
+---
+title: 过程Process
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-07-30 
+  - 类型/笔记 
+  - 类型/术语 
+---
+
+
 
 
 
