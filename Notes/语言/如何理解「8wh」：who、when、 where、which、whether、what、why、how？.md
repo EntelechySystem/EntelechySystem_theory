@@ -1,7 +1,17 @@
 # 如何理解「8wh」：who、when、 where、which、whether、what、why、how？
 
 
-tags: #日期/2022-08-03 #类型/笔记 #内容/语言 
+---
+title: 如何理解「8wh」：who、when、 where、which、whether、what、why、how？
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-08-03 
+  - 类型/笔记 
+  - 内容/语言 
+---
+
+
 
 
 # 思考

@@ -1,8 +1,19 @@
 # README
 
 
+---
+title: README
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-06-07 
+  - 类型/文章 
+  - 项目/EntelechySystem 
+  - 内容/人工智能 
+  - 发布/ES 
+---
 
-tags: #日期/2022-06-07 #类型/文章 #项目/EntelechySystem #内容/人工智能 #发布/ES 
+
 
 
 > [!info] 版本
