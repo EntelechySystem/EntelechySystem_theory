@@ -1,6 +1,3 @@
-# 过程Process
-
-
 ---
 title: 过程Process
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 类型/笔记 
   - 类型/术语 
 ---
+
+
+# 过程Process
+
+
 
 
 

@@ -1,6 +1,3 @@
-# 如何理解「8wh」：who、when、 where、which、whether、what、why、how？
-
-
 ---
 title: 如何理解「8wh」：who、when、 where、which、whether、what、why、how？
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 类型/笔记 
   - 内容/语言 
 ---
+
+
+# 如何理解「8wh」：who、when、 where、which、whether、what、why、how？
+
+
 
 
 

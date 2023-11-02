@@ -1,6 +1,3 @@
-# 机Machine
-
-
 ---
 title: 机Machine
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 类型/笔记 
   - 类型/术语  
 ---
+
+
+# 机Machine
+
+
 
 
 

@@ -1,6 +1,3 @@
-# Tierra人工世界：竞争有机体
-
-
 ---
 title: Tierra人工世界：竞争有机体
 authors: Ethan Lin
@@ -12,6 +9,11 @@ tags:
   - 内容/多主体建模 
   - 内容/世界体 
 ---
+
+
+# Tierra人工世界：竞争有机体
+
+
 
 
 
