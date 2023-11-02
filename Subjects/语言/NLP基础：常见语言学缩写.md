@@ -1,7 +1,7 @@
 ---
 title: NLP基础：常见语言学缩写
 authors: Ethan Lin
-year:
+year: 2022-09-01 
 tags:
   - 日期/2022-09-01 
   - 类型/笔记 

@@ -1,7 +1,7 @@
 ---
 title:  IIT能否解释信息因果和冗余信息？
 authors: Ethan Lin
-year:
+year: 2022-06-27 
 tags:
   - 日期/2022-06-27 
   - 内容/信息论 
