@@ -1,15 +1,17 @@
-# 机Machine
-
-
 ---
 title: 机Machine
 authors: Ethan Lin
-year:
+year: 2022-07-18 
 tags:
   - 日期/2022-07-18 
   - 类型/笔记 
   - 类型/术语  
 ---
+
+
+# 机Machine
+
+
 
 
 

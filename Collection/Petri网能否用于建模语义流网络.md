@@ -1,14 +1,16 @@
-# Petri网能否用于建模语义流网络
-
-
 ---
 title: Petri网能否用于建模语义流网络
 authors: Ethan Lin
-year:
+year: 2022-07-07 
 tags:
   - 类型/想法  
   - 日期/2022-07-07 
 ---
+
+
+# Petri网能否用于建模语义流网络
+
+
 
 
 
