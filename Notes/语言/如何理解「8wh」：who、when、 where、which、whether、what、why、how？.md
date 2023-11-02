@@ -1,7 +1,7 @@
 ---
 title: 如何理解「8wh」：who、when、 where、which、whether、what、why、how？
 authors: Ethan Lin
-year:
+year: 2022-08-03 
 tags:
   - 日期/2022-08-03 
   - 类型/笔记 

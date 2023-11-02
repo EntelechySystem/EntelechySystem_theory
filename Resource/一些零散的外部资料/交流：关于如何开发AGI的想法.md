@@ -1,7 +1,7 @@
 ---
 title: 交流：关于如何开发AGI的想法
 authors: Ethan Lin
-year:
+year: 2022-07-31 
 tags:
   - 日期/2022-07-31 
   - 类型/笔记 

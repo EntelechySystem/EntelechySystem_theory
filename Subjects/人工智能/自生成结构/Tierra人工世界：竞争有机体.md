@@ -1,7 +1,7 @@
 ---
 title: Tierra人工世界：竞争有机体
 authors: Ethan Lin
-year:
+year: 2023-02-11 
 tags:
   - 日期/2023-02-11 
   - 类型/笔记 

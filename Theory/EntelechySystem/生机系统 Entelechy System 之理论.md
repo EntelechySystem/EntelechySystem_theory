@@ -1,7 +1,7 @@
 ---
 title: 生机系统 Entelechy System 之理论
 authors: Ethan Lin
-year:
+year: 2022-06-07 
 tags:
   - 日期/2022-06-07 
   - 类型/文章 

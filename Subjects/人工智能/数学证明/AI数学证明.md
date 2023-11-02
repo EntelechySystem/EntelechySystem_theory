@@ -1,7 +1,7 @@
 ---
 title: AI数学证明
 authors: Ethan Lin
-year:
+year: 2023-07-03 
 tags:
   - 日期/2023-07-03 
   - 内容/数学证明 
