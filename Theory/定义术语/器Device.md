@@ -1,6 +1,3 @@
-# 器Device
-
-
 ---
 title: 器Device
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 类型/笔记 
   - 类型/术语 
 ---
+
+
+# 器Device
+
+
 
 
 

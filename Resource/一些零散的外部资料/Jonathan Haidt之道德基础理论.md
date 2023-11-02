@@ -1,6 +1,3 @@
-# Jonathan Haidt之道德基础理论
-
-
 ---
 title: Jonathan Haidt之道德基础理论
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 内容/道德 
   - 类型/转载 
 ---
+
+
+# Jonathan Haidt之道德基础理论
+
+
 
 
 

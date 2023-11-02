@@ -1,6 +1,3 @@
-# 生机系统 Entelechy System 之理论
-
-
 ---
 title: 生机系统 Entelechy System 之理论
 authors: Ethan Lin
@@ -12,6 +9,11 @@ tags:
   - 内容/人工智能 
   - 发布/ES 
 ---
+
+
+# 生机系统 Entelechy System 之理论
+
+
 
 
 
