@@ -1,10 +1,7 @@
-# README
-
-
 ---
 title: README
 authors: Ethan Lin
-year:
+year: 2022-06-07 
 tags:
   - 日期/2022-06-07 
   - 类型/文章 
@@ -12,6 +9,11 @@ tags:
   - 内容/人工智能 
   - 发布/ES 
 ---
+
+
+# README
+
+
 
 
 
