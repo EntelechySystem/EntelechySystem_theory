@@ -495,9 +495,31 @@
       "key": "Enter"
     }
   ],
-  "editor:follow-link": [
+  "markdown:toggle-preview": [
     {
       "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:follow-link": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    },
+    {
+      "modifiers": [
+        "Alt",
         "Ctrl"
       ],
       "key": "Enter"
