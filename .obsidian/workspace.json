@@ -6,7 +6,7 @@
       {
         "id": "8c56886edf6ece04",
         "type": "tabs",
-        "dimension": 21.574074074074073,
+        "dimension": 23.755656108597286,
         "children": [
           {
             "id": "d2084c67fe25abd9",
@@ -14,26 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "management/template/markdown_file_template_for_obsidian_AI问答.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1661a25df7c22731",
-        "type": "tabs",
-        "dimension": 39.21296296296296,
-        "children": [
-          {
-            "id": "f33b1d06d550207d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
-                "mode": "source",
-                "source": false
+                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
               }
             }
           }
@@ -42,7 +23,7 @@
       {
         "id": "31de0b2a215449ae",
         "type": "tabs",
-        "dimension": 39.21296296296296,
+        "dimension": 76.24434389140272,
         "children": [
           {
             "id": "d6f1638d3cdef888",
@@ -123,6 +104,38 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "9b0bbff7cd87fcbf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b84d83f5dc84a552",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac29d0d413939aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd82220df11a4508",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -198,11 +211,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 377.5
   },
   "right": {
     "id": "afa286b78ba5e2b3",
@@ -219,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -255,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -389,7 +403,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md"
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
                       }
                     }
                   }
@@ -406,7 +420,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -665,7 +679,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -688,7 +702,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -701,10 +715,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 203,
+        "width": 1200,
+        "height": 1189,
         "maximize": false,
         "zoom": 0
       },
@@ -728,7 +742,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md"
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
                       }
                     }
                   }
@@ -745,7 +759,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -917,7 +931,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "75e493df4020a73d",
@@ -934,7 +948,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -957,7 +971,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -970,10 +984,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 269,
+        "width": 1200,
+        "height": 1171,
         "maximize": false,
         "zoom": 0
       },
@@ -996,7 +1010,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md"
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
                       }
                     }
                   }
@@ -1012,7 +1026,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1160,7 +1174,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1184,7 +1198,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1197,7 +1211,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
+        "x": 176,
         "y": 25,
         "width": 1024,
         "height": 800,
@@ -1224,7 +1238,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md"
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
                       }
                     }
                   }
@@ -1241,7 +1255,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1405,7 +1419,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1428,7 +1442,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1441,10 +1455,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 235,
+        "width": 1200,
+        "height": 1205,
         "maximize": false,
         "zoom": 0
       },
@@ -1467,7 +1481,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md"
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
                       }
                     }
                   }
@@ -1586,6 +1600,30 @@
                 }
               },
               {
+                "id": "0511511fe1e2f23a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/机器功能/【信】.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bf8188cfcd1a75f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/机制/信的传递机制.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "66517ebeb386bbde",
                 "type": "leaf",
                 "state": {
@@ -1598,8 +1636,7 @@
                 },
                 "group": "8ba770e4a2d6db41"
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f706737a8f4133e4",
@@ -1616,7 +1653,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1639,7 +1676,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1652,11 +1689,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
+        "x": 0,
+        "y": 199,
+        "width": 1200,
+        "height": 1241,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -1679,7 +1716,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md"
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
                       }
                     }
                   }
@@ -1696,7 +1733,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1833,8 +1870,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "400c4339beffdd0e",
@@ -1851,7 +1887,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1874,7 +1910,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "management/template/markdown_file_template_for_obsidian_AI问答.md",
+                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1887,39 +1923,47 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 190,
+        "width": 1200,
+        "height": 1206,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f33b1d06d550207d",
+  "active": "26106837ecf05b6c",
   "lastOpenFiles": [
-    "management/template/markdown_file_template_for_obsidian_档案.md",
-    "management/template/markdown_file_template_for_obsidian_想法.md",
-    "Notes/一些零散的想法/随思：关于帮助.md",
-    "Subjects/sync.ffs_lock",
+    "Notes/机器功能/【信】.md",
+    "Notes/机制/信的传递机制.md",
+    "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+    "Theory/定义术语/【机器】.md",
     "sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
-    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+    "Subjects/sync.ffs_lock",
     "Resource/概念画板源文件/EntelechySystem/sync.ffs_lock",
+    "Notes/机器功能/~$机器功能列表.xlsx",
+    "Projects/项目：设计变量之数据表示结构/项目：设计变量之数据表示结构.md",
+    "Projects/项目：设计变量之数据表示结构/案例：思维过程之于设计变量之数据表示结构.md",
+    "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.md",
+    "Projects/开发基本框架项目/项目：开发基本框架程序.md",
+    "Notes/机制/更新状态变量.md",
+    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
+    "management/template/markdown_file_template_for_obsidian_AI问答.md",
+    "management/template/markdown_file_template_for_obsidian_档案.md",
+    "management/template/markdown_file_template_for_obsidian_想法.md",
+    "Notes/一些零散的想法/随思：关于帮助.md",
     "Subjects/玄学/_Index_of_玄学-3e53.ffs_tmp",
     "Resource/Subjects/sync.ffs_lock",
     "Notes/机制/意象机制.md",
     "Notes/机制/场景机制.md",
     "Notes/语言/语言结构.md",
-    "Projects/开发基本框架项目/项目：开发基本框架程序.md",
     "Resource/Subjects/人工智能/_Index_of_人工智能~25a5.ffs_tmp",
     "Resource/Subjects/人工智能/数学证明/AI数学证明~b475.ffs_tmp",
-    "Resource/Subjects/人工智能/数学证明/AI数学证明~8e4b.ffs_tmp",
     "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
     "Subjects/人工智能/数学证明/AI数学证明.md",
     "Notes/机制/实体数据结构和过程机制.md",
-    "Notes/机制/更新状态变量.md",
     "Notes/思维/内进内出型思维过程.md",
     "attachment/串行编译实体过程.svg",
     "attachment/实体数据结构.svg",
@@ -1930,15 +1974,7 @@
     "Notes/一些他人的、或者交流的零散的记录笔记/讨论：关于he系统的决策机制_20220810.md",
     "Notes/一些他人的、或者交流的零散的记录笔记/讨论：关于he系统的四象与决策机制_20220820.md",
     "Notes/一些他人的、或者交流的零散的记录笔记/摘录：别人总结的知识种类_大约在2023-04-21前后.md",
-    "Notes/一些他人的、或者交流的零散的记录笔记/摘录：AGI工作流程2023-06-13.md",
-    "Management/template/template_for_AI.md",
-    "Management/template/markdown_file_template_for_obsidian_项目.md",
-    "Management/template/markdown_file_template_for_obsidian.md",
-    "Management/template/markdown_file_template_for_obsidian_转载.md",
-    "Management/template/markdown_file_template_for_obsidian_AI问答.md",
     "attachment/Pasted image 20230613002158.png",
-    "Theory/AgentsWorldSystem/智能群世界系统.md",
-    "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
     "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.assets/案例：设计一个过程以在实例化中初始化一个属性.svg",
     "attachment/状态关系与计算邻接矩阵示意图.svg",
     "attachment/状态关系与计算图示意图.svg",
