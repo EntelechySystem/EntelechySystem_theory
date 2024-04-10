@@ -1,3 +1,4 @@
 {
-  "folder": "management/template"
+  "folder": "management/template",
+  "timeFormat": "YYYY-MM-DD HH:mm:ss"
 }
