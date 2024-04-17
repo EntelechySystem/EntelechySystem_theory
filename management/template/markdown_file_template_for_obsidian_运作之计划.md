@@ -1,5 +1,5 @@
 ---
-title: [计划：{{title}}_{{date:YYYYMMDDHHmmss}}]
+title: 计划：{{title}}_{{date:YYYYMMDDHHmmss}}
 authors: Ethan Lin
 year: {{date:YYYY-MM-DD}}
 tags:

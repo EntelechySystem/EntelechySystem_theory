@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 255
       }
+    },
+    {
+      "query": "path:Operate  ",
+      "color": {
+        "a": 1,
+        "rgb": 8323327
+      }
     }
   ],
   "collapse-display": false,
@@ -48,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 2.53584391276042,
   "lineSizeMultiplier": 5,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.402140299479167,
   "repelStrength": 7.96305338541667,
   "linkStrength": 0.8717041015625,
   "linkDistance": 245,
-  "scale": 0.5734516453154951,
+  "scale": 0.7825283883844766,
   "close": false
 }
