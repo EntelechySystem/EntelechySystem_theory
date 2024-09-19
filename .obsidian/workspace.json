@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
+                "file": "Theory/ElementalConceptionSystem/基本概念系统.md"
               }
             }
           }
@@ -25,6 +25,16 @@
         "type": "tabs",
         "dimension": 76.24434389140272,
         "children": [
+          {
+            "id": "f50bd763ce7dee0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
           {
             "id": "d6f1638d3cdef888",
             "type": "leaf",
@@ -47,7 +57,7 @@
               "type": "markdown",
               "state": {
                 "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -96,41 +106,43 @@
             }
           },
           {
-            "id": "f50bd763ce7dee0d",
+            "id": "e31beef238b85a6c",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "Collection/如何描述以逻辑形式？.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
-            "id": "9b0bbff7cd87fcbf",
+            "id": "fe3d52b8afdf6b36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Collection/前提与目标互相约束.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
-            "id": "b84d83f5dc84a552",
+            "id": "4280c33179a2da02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/思维/思维模式.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "2ac29d0d413939aa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bd82220df11a4508",
+            "id": "ac51ebb3cade38ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,11 +224,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 298.5
   },
   "right": {
     "id": "afa286b78ba5e2b3",
@@ -225,7 +237,7 @@
       {
         "id": "0c739ec3aba7bbaa",
         "type": "tabs",
-        "dimension": 42.19409282700421,
+        "dimension": 21.11581920903955,
         "children": [
           {
             "id": "a00d59473a2008a4",
@@ -233,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,14 +255,21 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "beeca9cea653ba38",
+        "type": "tabs",
+        "dimension": 36.29943502824859,
+        "children": [
           {
             "id": "10b5ee6ba4f94e16",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,7 +280,7 @@
       {
         "id": "ccf47346b35ad94e",
         "type": "tabs",
-        "dimension": 57.80590717299579,
+        "dimension": 42.58474576271186,
         "children": [
           {
             "id": "5b979dff4bd06331",
@@ -269,7 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -375,8 +394,8 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "open-vscode:VSCode": false,
-      "obsidian-wordnet-plugin:WordNet Dictionary": false
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "open-vscode:VSCode": false
     }
   },
   "floating": {
@@ -390,7 +409,7 @@
           {
             "id": "c2a90c55d6d50636",
             "type": "split",
-            "dimension": 22.22222222222222,
+            "dimension": 18.671875,
             "children": [
               {
                 "id": "6a2bbcaa5b4ba10d",
@@ -403,7 +422,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md"
                       }
                     }
                   }
@@ -420,7 +439,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -507,7 +526,7 @@
           {
             "id": "2d872edcf2997a3f",
             "type": "split",
-            "dimension": 63.37678460583489,
+            "dimension": 66.9140625,
             "children": [
               {
                 "id": "7983f15843570f29",
@@ -667,7 +686,7 @@
           {
             "id": "488f0a03fa373c96",
             "type": "split",
-            "dimension": 14.400993171942892,
+            "dimension": 14.4140625,
             "children": [
               {
                 "id": "36c04666c1badcd9",
@@ -679,7 +698,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -702,7 +721,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -716,9 +735,9 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 203,
+        "y": 44,
         "width": 1200,
-        "height": 1189,
+        "height": 1125,
         "maximize": false,
         "zoom": 0
       },
@@ -742,7 +761,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md"
                       }
                     }
                   }
@@ -759,7 +778,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -863,6 +882,18 @@
                 }
               },
               {
+                "id": "f480bb7456dc0989",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Operate/想法：关于 Obsidian 双链笔记机制用于思维运作_20240410205114.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "cddba1b9fcd3a1a1",
                 "type": "leaf",
                 "pinned": true,
@@ -929,9 +960,32 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c0f2ca9b9501fc5a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/思维/思维机制之解决问题.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "768b6b198799b382",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/思维/内进内出型思维过程.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "75e493df4020a73d",
@@ -948,7 +1002,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -971,7 +1025,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -984,10 +1038,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 269,
-        "width": 1200,
-        "height": 1171,
+        "x": 217,
+        "y": 61,
+        "width": 1812,
+        "height": 1301,
         "maximize": false,
         "zoom": 0
       },
@@ -1010,7 +1064,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md"
                       }
                     }
                   }
@@ -1026,7 +1080,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1174,7 +1228,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1198,7 +1252,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1212,9 +1266,9 @@
         ],
         "direction": "vertical",
         "x": 176,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
+        "y": 44,
+        "width": 1215,
+        "height": 1333,
         "maximize": false,
         "zoom": 0
       },
@@ -1238,7 +1292,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md"
                       }
                     }
                   }
@@ -1255,7 +1309,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1401,8 +1455,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "64372b352ae6b17a",
@@ -1419,7 +1472,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1442,7 +1495,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1455,11 +1508,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 235,
-        "width": 1200,
-        "height": 1205,
-        "maximize": false,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
+        "height": 944,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -1469,7 +1522,7 @@
           {
             "id": "32ba97bc72afc62f",
             "type": "split",
-            "dimension": 29.609375,
+            "dimension": 15.135699373695196,
             "children": [
               {
                 "id": "3390d01e8b82d2c0",
@@ -1481,7 +1534,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md"
                       }
                     }
                   }
@@ -1583,29 +1636,50 @@
             "direction": "horizontal"
           },
           {
-            "id": "4ec482a9ea6d7078",
+            "id": "67245cf920a49249",
             "type": "tabs",
-            "dimension": 34.21875,
+            "dimension": 34.44676409185804,
             "children": [
               {
-                "id": "26106837ecf05b6c",
+                "id": "69bc89e41e01e348",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "4ec482a9ea6d7078",
+            "type": "tabs",
+            "dimension": 27.713987473903963,
+            "children": [
               {
                 "id": "0511511fe1e2f23a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/机器功能/【信】.md",
+                    "file": "Theory/定义术语/【信】.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2eb74ba95d7f01cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Theory/定义术语/【数】.md",
                     "mode": "source",
                     "source": false
                   }
@@ -1641,7 +1715,7 @@
           {
             "id": "f706737a8f4133e4",
             "type": "split",
-            "dimension": 36.171875,
+            "dimension": 22.7035490605428,
             "children": [
               {
                 "id": "fbe1c534a16e8292",
@@ -1653,7 +1727,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1676,9 +1750,9 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "linksCollapsed": false,
-                        "unlinkedCollapsed": true
+                        "unlinkedCollapsed": false
                       }
                     }
                   }
@@ -1689,11 +1763,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 199,
-        "width": 1200,
-        "height": 1241,
-        "maximize": true,
+        "x": 122,
+        "y": 53,
+        "width": 1916,
+        "height": 1287,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -1703,12 +1777,12 @@
           {
             "id": "721f0d14a167c72f",
             "type": "split",
-            "dimension": 31.17408906882591,
+            "dimension": 20.9375,
             "children": [
               {
                 "id": "caadf57b6f84978f",
                 "type": "tabs",
-                "dimension": 60.88407005838199,
+                "dimension": 57.24381625441695,
                 "children": [
                   {
                     "id": "91f29e73dc3fe72c",
@@ -1716,7 +1790,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md"
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md"
                       }
                     }
                   }
@@ -1725,7 +1799,7 @@
               {
                 "id": "f42cf65c59998c61",
                 "type": "tabs",
-                "dimension": 39.11592994161801,
+                "dimension": 42.75618374558305,
                 "children": [
                   {
                     "id": "6dc5c81e363dbc7b",
@@ -1733,7 +1807,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "path:(\"Theory\" OR \"Collection\" OR \"Design\" OR \"Notes\" OR \"Resource\")",
@@ -1820,7 +1894,7 @@
           {
             "id": "5a349c68efad5119",
             "type": "tabs",
-            "dimension": 44.01388085598612,
+            "dimension": 54.2578125,
             "children": [
               {
                 "id": "5d69c7add26ccc22",
@@ -1870,12 +1944,13 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "400c4339beffdd0e",
             "type": "split",
-            "dimension": 24.812030075187966,
+            "dimension": 24.8046875,
             "children": [
               {
                 "id": "873a3e0f5acd5950",
@@ -1887,7 +1962,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1910,7 +1985,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+                        "file": "Theory/ElementalConceptionSystem/基本概念系统.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1923,62 +1998,62 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 190,
-        "width": 1200,
-        "height": 1206,
-        "maximize": false,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
+        "height": 944,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "26106837ecf05b6c",
+  "active": "e625620a4b87d8c1",
   "lastOpenFiles": [
-    "Notes/机器功能/【信】.md",
-    "Notes/机制/信的传递机制.md",
-    "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
-    "Theory/定义术语/【机器】.md",
     "sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Resource/概念画板源文件/EntelechySystem/sync.ffs_lock",
-    "Notes/机器功能/~$机器功能列表.xlsx",
-    "Projects/项目：设计变量之数据表示结构/项目：设计变量之数据表示结构.md",
-    "Projects/项目：设计变量之数据表示结构/案例：思维过程之于设计变量之数据表示结构.md",
-    "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.md",
+    "Reference/LTVHMCFV/石言 et al_2020_基于深度强化学习的银行风险定价策略探析.pdf",
+    "Reference/LTVHMCFV",
+    "Reference/HMR6Z3XI/supplFile_art_20240619160800.pdf",
+    "Reference/HMR6Z3XI",
+    "Reference/DGEB394Z",
+    "Reference/BGSFFXHB/BibTex.bib",
     "Projects/开发基本框架项目/项目：开发基本框架程序.md",
-    "Notes/机制/更新状态变量.md",
-    "Theory/EntelechySystem/生机系统 Entelechy System 之理论.md",
-    "management/template/markdown_file_template_for_obsidian_AI问答.md",
-    "management/template/markdown_file_template_for_obsidian_档案.md",
-    "management/template/markdown_file_template_for_obsidian_想法.md",
-    "Notes/一些零散的想法/随思：关于帮助.md",
-    "Subjects/玄学/_Index_of_玄学-3e53.ffs_tmp",
-    "Resource/Subjects/sync.ffs_lock",
-    "Notes/机制/意象机制.md",
-    "Notes/机制/场景机制.md",
-    "Notes/语言/语言结构.md",
-    "Resource/Subjects/人工智能/_Index_of_人工智能~25a5.ffs_tmp",
-    "Resource/Subjects/人工智能/数学证明/AI数学证明~b475.ffs_tmp",
-    "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
-    "Subjects/人工智能/数学证明/AI数学证明.md",
-    "Notes/机制/实体数据结构和过程机制.md",
-    "Notes/思维/内进内出型思维过程.md",
+    "Theory/ElementalConceptionSystem/基本概念系统.md",
+    "Theory/LifeManagementSystem/生命周期管理系统.md",
+    "Theory/AgentsWorldSystem/智能群世界系统.md",
+    "Collection/如何描述以逻辑形式？.md",
+    "Collection/前提与目标互相约束.md",
+    "Notes/思维/思维模式.md",
+    "Reference/YWCY6RSU/image.png",
+    "Notes/思维/思维机制.md",
+    "Develope/事物Thing.md",
+    "Develope/实体Entity.md",
+    "Notes/思维/思维机制之解决问题.md",
+    "Theory/ComplexIntelligenceSystem/复杂智能体系统.md",
+    "Theory/定义术语/【信】.md",
+    "Develope/过程Process.md",
+    "Projects/案例：烧水倒水问题/案例：思维问题流程关于家里烧水_20210719.md",
+    "management/template/markdown_file_template_for_obsidian_运作之AI问答.md",
+    "management/template/markdown_file_template_for_obsidian_运作之原因.md",
+    "management/template/markdown_file_template_for_obsidian_运作之想法.md",
+    "management/template/markdown_file_template_for_obsidian_运作之问题.md",
+    "management/template/markdown_file_template_for_obsidian_运作之任务.md",
+    "management/template/markdown_file_template_for_obsidian_运作之目标.md",
+    "management/template/markdown_file_template_for_obsidian_运作之交流.md",
+    "management/template/markdown_file_template_for_obsidian_运作之计划.md",
+    "Operate/markdown_file_template_for_obsidian_运作之分析.md",
+    "management/template/markdown_file_template_for_obsidian_运作之现状.md",
     "attachment/串行编译实体过程.svg",
     "attachment/实体数据结构.svg",
     "attachment/实体过程结构示例图（新版）.svg",
     "attachment/实体结构.svg",
-    "Notes/机制/过程之特点.md",
-    "Notes/机制/实体数据结构和过程机制~.md",
-    "Notes/一些他人的、或者交流的零散的记录笔记/讨论：关于he系统的决策机制_20220810.md",
-    "Notes/一些他人的、或者交流的零散的记录笔记/讨论：关于he系统的四象与决策机制_20220820.md",
-    "Notes/一些他人的、或者交流的零散的记录笔记/摘录：别人总结的知识种类_大约在2023-04-21前后.md",
     "attachment/Pasted image 20230613002158.png",
     "Notes/思维/案例：设计一个过程以在实例化中初始化一个属性.assets/案例：设计一个过程以在实例化中初始化一个属性.svg",
     "attachment/状态关系与计算邻接矩阵示意图.svg",
     "attachment/状态关系与计算图示意图.svg",
-    "attachment/8A4E3C96-4F85-4E71-A7D5-2CC74ABE8354_1_105_c.jpeg",
-    "attachment/Pasted image 20230421152427.png"
+    "attachment/8A4E3C96-4F85-4E71-A7D5-2CC74ABE8354_1_105_c.jpeg"
   ]
 }
